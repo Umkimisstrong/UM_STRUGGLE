@@ -1,4 +1,2 @@
 # UM_STRUGGLE
-mkdir UMKIM
-cd UMKIM
-git init
+git add Test001.java
