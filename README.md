@@ -1,2 +1,4 @@
 # UM_STRUGGLE
-지속가능한 공부
+mkdir UMKIM
+cd UMKIM
+git init
